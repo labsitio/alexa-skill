@@ -1,0 +1,97 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "minha labsit",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "cancelar",
+            "obrigado"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "TipIntent",
+          "slots": [],
+          "samples": [
+            "uma dica"
+          ]
+        },
+        {
+          "name": "EndYearMessageIntent",
+          "slots": [],
+          "samples": [
+            "mensagem de Natal",
+            "mensagem Natal",
+            "mensagem de fim de ano",
+            "mensagem de final de ano"
+          ]
+        },
+        {
+          "name": "DimasCutHisHairIntent",
+          "slots": [],
+          "samples": [
+            "dimas vai cortar o cabelo"
+          ]
+        },
+        {
+          "name": "DarlanImitationIntent",
+          "slots": [],
+          "samples": [
+            "imite o Darlan",
+            "imitar o Darlan"
+          ]
+        },
+        {
+          "name": "ClientsIntent",
+          "slots": [],
+          "samples": [
+            "me diga quais são os clientes",
+            "quais são os clientes",
+            "cliente",
+            "clientes"
+          ]
+        },
+        {
+          "name": "LocalizationIntent",
+          "slots": [],
+          "samples": [
+            "me diga a localização",
+            "me diga o endereço",
+            "qual é a localização",
+            "qual é o endereço",
+            "endereço",
+            "localização"
+          ]
+        },
+        {
+          "name": "TechnologiesIntent",
+          "slots": [],
+          "samples": [
+            "trabalha com quais tecnologias",
+            "com quais tecnologias",
+            "quais são as tecnologias"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "28"
+}
